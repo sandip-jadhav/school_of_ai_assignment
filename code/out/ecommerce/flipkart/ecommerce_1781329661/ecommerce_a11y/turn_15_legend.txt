@@ -1,0 +1,68 @@
+[1]<a>Flipkart</a>
+[2]<a>Explore Plus</a>
+[3]<input>27 inch QHD monitor Type-C</input>
+[4]<button></button>
+[5]<a>Login</a>
+[6]<a>Become a Seller</a>
+[7]<a>Cart</a>
+[8]<a>Flights</a>
+[9]<a>Offer Zone</a>
+[10]<a>Computers</a>
+[11]<a>Computer Components</a>
+[12]<a>Monitors & Accessories</a>
+[13]<a>Monitors</a>
+[14]<select>Min ₹250 ₹500 ₹1000 ₹2000 ₹5000 ₹10000 ₹20000 ₹30000 ₹40000 ₹50000 ₹60000</select>
+[15]<select>₹250 ₹500 ₹1000 ₹2000 ₹5000 ₹10000 ₹20000 ₹30000 ₹40000 ₹50000 ₹60000 ₹60000+</select>
+[16]<a>Home</a>
+[17]<a>Computers</a>
+[18]<a>Computer Components</a>
+[19]<a>Monitors & Accessories</a>
+[20]<a>Monitors</a>
+[21]<a></a>
+[22]<a>Lenovo 68.58 cm (27 inch) Full HD VA Panel with TUV Eye...</a>
+[23]<a>₹6,999₹14,69052% off</a>
+[24]<a></a>
+[25]<a>Lenovo L-Series 68.58 cm (27 inches) Full HD LED Backli...</a>
+[26]<a>₹11,494₹15,19024% off</a>
+[27]<a></a>
+[28]<a>LG QHD 68.58 cm (27 inch) Quad HD IPS Panel with sRGB 9...</a>
+[29]<a>₹14,999₹18,00016% off</a>
+[30]<a></a>
+[31]<a>MSI Optix 68.58 cm (27 inch) WQHD IPS Panel MSI Optix M...</a>
+[32]<a>₹52,959₹63,00015% off</a>
+[33]<a></a>
+[34]<a></a>
+[35]<a></a>
+[36]<a></a>
+[37]<div>More</div>
+[38]<span>CLEAR ALL</span>
+[39]<div>✕</div>
+[40]<div>4★ & above</div>
+[41]<span>SHOW MORE</span>
+[42]<div></div>
+[43]<div></div>
+[44]<div></div>
+[45]<div></div>
+[46]<img></img>
+[47]<span>?</span>
+[48]<div>BRAND</div>
+[49]<div></div>
+[50]<div>BnoSPACE</div>
+[51]<div></div>
+[52]<div>Enter</div>
+[53]<div></div>
+[54]<div>PHILIPS</div>
+[55]<div></div>
+[56]<div>realme</div>
+[57]<div></div>
+[58]<div>Cranique</div>
+[59]<div></div>
+[60]<div>GIGABYTE</div>
+[61]<span>15 MORE</span>
+[62]<div>CUSTOMER RATINGS</div>
+[63]<div>✕</div>
+[64]<span>Clear all</span>
+[65]<div>Popularity</div>
+[66]<div>Price -- Low to High</div>
+[67]<div>Price -- High to Low</div>
+[68]<div>Newest First</div>

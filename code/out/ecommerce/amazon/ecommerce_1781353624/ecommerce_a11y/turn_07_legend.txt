@@ -1,0 +1,52 @@
+[1]<a></a>
+[2]<a>₹19,969 ₹19,969 M.R.P: ₹29,999 M.R.P: ₹29,999 ₹29,999</a>
+[3]<button>Add to cart</button>
+[4]<a>(4 new offers)</a>
+[5]<a></a>
+[6]<a>GravaStar Computer Peripheral Devices, Mercury,K1 75% Wireless Mechanical Gaming</a>
+[7]<a role="button">4.8 out of 5 stars, rating details</a>
+[8]<a>414 ratings</a>
+[9]<a>₹21,999 ₹21,999 M.R.P: ₹39,999 M.R.P: ₹39,999 ₹39,999</a>
+[10]<button>Add to cart</button>
+[11]<a>(4 new offers)</a>
+[12]<a>Sponsored video; click to navigate to featured product page. iClever Bluetooth K</a>
+[13]<button>Pause Sponsored Video</button>
+[14]<button>Mute Sponsored Video</button>
+[15]<a></a>
+[16]<a>iClever Bluetooth Keyboard BK10, Multi-Device Rechargeable Wireless Keyboard wit</a>
+[17]<a role="button">3.8 out of 5 stars, rating details</a>
+[18]<a>17,620 ratings</a>
+[19]<a>Limited time deal</a>
+[20]<a>₹2,698 ₹2,698 M.R.P: ₹3,999 M.R.P: ₹3,999 ₹3,999</a>
+[21]<a></a>
+[22]<a>MechLands EPOMAKER TH108 Full Size Mechanical Keyboard, Wireless Gaming Keyboard</a>
+[23]<a role="link">Apply the filter 4 Stars & Up to narrow results</a>
+[24]<label>₹1,950</label>
+[25]<label>₹56,900+</label>
+[26]<input>Minimum price</input>
+[27]<input>Maximum price</input>
+[28]<a role="link">Up to ₹5,500</a>
+[29]<a role="link">₹5,500 - ₹7,600</a>
+[30]<a role="link">₹7,600 - ₹11,000</a>
+[31]<a role="link">₹11,000 - ₹13,500</a>
+[32]<a role="link">Over ₹13,500</a>
+[33]<a role="link">All Discounts</a>
+[34]<a role="link">Coupons</a>
+[35]<a role="link">Today's Deals</a>
+[36]<a role="link">Apply the filter USB-C to narrow results</a>
+[37]<a role="link">Apply the filter Bluetooth to narrow results</a>
+[38]<a role="link">Apply the filter Wi-Fi to narrow results</a>
+[39]<a role="link">Apply the filter RF to narrow results</a>
+[40]<a role="link">Apply the filter USB-A to narrow results</a>
+[41]<a role="link">Apply the filter Up to 70 to narrow results</a>
+[42]<a role="link">Apply the filter 71 to 81 to narrow results</a>
+[43]<a role="link">Apply the filter 82 to 92 to narrow results</a>
+[44]<a role="link">Apply the filter 93 & above to narrow results</a>
+[45]<a role="link">Apply the filter Backlit to narrow results</a>
+[46]<a role="link">Apply the filter Hot-Swappable to narrow results</a>
+[47]<a role="link">Apply the filter Ergonomic to narrow results</a>
+[48]<a role="link">Apply the filter Foldable to narrow results</a>
+[49]<a role="link">Apply the filter Hotkeys and Media Keys to narrow results</a>
+[50]<a role="link">Apply the filter Lightweight to narrow results</a>
+[51]<span>Sponsored</span>
+[52]<span></span>

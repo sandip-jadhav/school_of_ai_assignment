@@ -1,0 +1,32 @@
+[1]<button>Search for Products, Brands and More</button>
+[2]<input>Search for Products, Brands and More</input>
+[3]<a>Login</a>
+[4]<a>Login</a>
+[5]<a>More</a>
+[6]<a>Cart</a>
+[7]<a>For You</a>
+[8]<a>Fashion</a>
+[9]<a>Mobiles</a>
+[10]<a>Beauty</a>
+[11]<a>Electronics</a>
+[12]<a>Home</a>
+[13]<a>Appliances</a>
+[14]<a>Toys, baby..</a>
+[15]<a>Food & Health</a>
+[16]<a>Auto Accessories</a>
+[17]<a>2 Wheelers</a>
+[18]<a>Sports & Fitness</a>
+[19]<a>Books & Media</a>
+[20]<a>Furniture</a>
+[21]<a></a>
+[22]<a></a>
+[23]<a></a>
+[24]<a></a>
+[25]<a></a>
+[26]<a></a>
+[27]<span role="button">✕</span>
+[28]<input></input>
+[29]<a>Terms of Use</a>
+[30]<a>Privacy Policy</a>
+[31]<button>Request OTP</button>
+[32]<a>New to Flipkart? Create an account</a>

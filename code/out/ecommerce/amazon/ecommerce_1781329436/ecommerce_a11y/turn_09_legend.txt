@@ -1,0 +1,23 @@
+[1]<a></a>
+[2]<button>Add to cart</button>
+[3]<a></a>
+[4]<a>Aula F87 Wireless Mechanical Keyboard | 75% TKL Gasket Custom Hot Swappable Keyb</a>
+[5]<a role="button">4.7 out of 5 stars, rating details</a>
+[6]<a>118 ratings</a>
+[7]<a>₹5,499 ₹5,499 M.R.P: ₹14,999 M.R.P: ₹14,999 ₹14,999</a>
+[8]<button>Add to cart</button>
+[9]<a></a>
+[10]<a>Keymatic Gaming Keyboard Wireless Creamy Keyboard with Media Knob & Screen Cute </a>
+[11]<a role="button">4.8 out of 5 stars, rating details</a>
+[12]<a>32 ratings</a>
+[13]<a>₹6,661 ₹6,661</a>
+[14]<button>Add to cart</button>
+[15]<a>(4 new offers)</a>
+[16]<a></a>
+[17]<a>Aula F99 Wireless Mechanical Keyboard | Tri-Mode BT5.0/2.4GHz/USB-C Hot Swappabl</a>
+[18]<a role="button">4.6 out of 5 stars, rating details</a>
+[19]<a>1,089 ratings</a>
+[20]<a>₹6,999 ₹6,999 M.R.P: ₹19,999 M.R.P: ₹19,999 ₹19,999</a>
+[21]<button>Add to cart</button>
+[22]<a></a>
+[23]<a>Aula F75 75% Wireless Mechanical Keyboard | Hot Swappable | Pre-lubed Linear Swi</a>

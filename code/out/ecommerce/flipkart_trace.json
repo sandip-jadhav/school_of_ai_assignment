@@ -1,0 +1,44 @@
+{
+  "label": "flipkart_monitor",
+  "success": true,
+  "error_code": null,
+  "error": "",
+  "path": "ecommerce_a11y",
+  "turns": 20,
+  "filters_applied": [
+    "4\u2605 & above"
+  ],
+  "sort_applied": "Relevance",
+  "total_visible": "345 results",
+  "product_count": 3,
+  "extraction_note": "The provided text contains price and rating data but lacks specific product titles for individual items beyond the search query. Products are listed in the order they appear in the source text.",
+  "elapsed_s": 116.8,
+  "final_url": "https://www.flipkart.com/search?q=27+inch+QHD+monitor+Type-C&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove",
+  "session": "ecom_flipkart_1781330001",
+  "products": [
+    {
+      "rank": 1,
+      "name": "27 inch QHD monitor Type-C",
+      "price": "\u20b96,999",
+      "original_price": "\u20b914,690",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "6,247 ratings"
+    },
+    {
+      "rank": 2,
+      "name": "27 inch QHD monitor Type-C",
+      "price": "\u20b911,494",
+      "original_price": "\u20b915,190",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "692 ratings"
+    },
+    {
+      "rank": 3,
+      "name": "27 inch QHD monitor Type-C",
+      "price": "\u20b914,999",
+      "original_price": "\u20b918,000",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "146 ratings"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "label": "amazon_keyboard",
+  "success": true,
+  "error_code": null,
+  "error": "",
+  "path": "ecommerce_a11y",
+  "turns": 7,
+  "filters_applied": [],
+  "sort_applied": "Avg. Customer Review",
+  "total_visible": "1-16 of 59 results for",
+  "product_count": 3,
+  "extraction_note": "DOM JS: 18 cards on page, 3 returned",
+  "elapsed_s": 49.5,
+  "final_url": "https://www.amazon.in/s?k=mechanical+wireless+keyboard&rh=p_36%3A320000-840000&s=review-rank&dc&crid=37X1WONBIHZXI&qid=1781354071&rnid=1318502031&sprefix=mechanical+wireless+keyboard%2Caps%2C284&ref=sr_st_review-rank&ds=v1%3AAVgYc%2Bn68bBaFuAwRvJA60k3ab3r5KOyc1GazhwVJDU",
+  "session": "ecom_amazon_1781354038",
+  "products": [
+    {
+      "rank": 1,
+      "name": "Kisnt Wireless Mechanical Keyboard, Creamy Sound Board Gaming Keyboard with Bluetooth/2.4GHz/USB-C, 75% 85 Keys, Hot Swappable Compact Keyboard for Win/Mac",
+      "brand": "Mon, 22 Jun",
+      "price": "\u20b96,803",
+      "original_price": "\u20b99,999",
+      "discount": "32% off",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "1,003 ratings",
+      "key_specs": [
+        "Creamy Sound Board Gaming Keyboard with Bluetooth/2.4GHz/USB-C",
+        "75% 85 Keys",
+        "Hot Swappable Compact Keyboard for Win/Mac"
+      ],
+      "availability": "Only 1 left in stock."
+    },
+    {
+      "rank": 2,
+      "name": "Aula F87 Wireless Mechanical Keyboard | 75% TKL Gasket Custom Hot Swappable Keyboard, 2.4Ghz/Type-C/Bluetooth Gaming Keyboard | Pre-lubed Switch RGB Backlit Keyboard (Green+White)",
+      "brand": "Mon, 15 Jun",
+      "price": "\u20b95,499",
+      "original_price": "\u20b914,999",
+      "discount": "63% off",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "118 ratings",
+      "key_specs": [
+        "75% TKL Gasket Custom Hot Swappable Keyboard",
+        "2.4Ghz/Type-C/Bluetooth Gaming Keyboard",
+        "Pre-lubed Switch RGB Backlit Keyboard (Green+White)"
+      ],
+      "availability": ""
+    },
+    {
+      "rank": 3,
+      "name": "Keymatic Gaming Keyboard Wireless Creamy Keyboard with Media Knob & Screen Cute Keyboard Mechanical Feeling with Number Pad RGB Backlit Tri-Mode BT/2.4GHz/USB-C - Pink",
+      "brand": "26 - 29 Jun",
+      "price": "\u20b96,661",
+      "original_price": "",
+      "discount": "",
+      "rating": "4.8 out of 5 stars",
+      "review_count": "32 ratings",
+      "key_specs": [],
+      "availability": ""
+    }
+  ]
+}

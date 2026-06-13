@@ -1,0 +1,65 @@
+[1]<a>Flipkart</a>
+[2]<a>Explore Plus</a>
+[3]<input>27 inch QHD monitor Type-C</input>
+[4]<button></button>
+[5]<a>Login</a>
+[6]<a>Become a Seller</a>
+[7]<a>Cart</a>
+[8]<a>Flights</a>
+[9]<a>Offer Zone</a>
+[10]<a>Computers</a>
+[11]<a>Computer Components</a>
+[12]<a>Monitors & Accessories</a>
+[13]<a>Monitors</a>
+[14]<select>Min ₹250 ₹500 ₹1000 ₹2000 ₹5000 ₹10000 ₹20000 ₹30000 ₹40000 ₹50000 ₹60000</select>
+[15]<select>₹250 ₹500 ₹1000 ₹2000 ₹5000 ₹10000 ₹20000 ₹30000 ₹40000 ₹50000 ₹60000 ₹60000+</select>
+[16]<input>Search Brand</input>
+[17]<a>Home</a>
+[18]<a>Computers</a>
+[19]<a>Computer Components</a>
+[20]<a>Monitors & Accessories</a>
+[21]<a>Monitors</a>
+[22]<a></a>
+[23]<a>Lenovo L-Series 68.58 cm (27 inches) Full HD LED Backli...</a>
+[24]<a>₹11,494₹15,19024% off</a>
+[25]<a></a>
+[26]<a>Lenovo 68.58 cm (27 inch) Curved Quad HD LED Backlit VA...</a>
+[27]<a>₹15,999₹26,19038% off</a>
+[28]<a></a>
+[29]<a>LG QHD 68.58 cm (27 inch) Quad HD IPS Panel with sRGB 9...</a>
+[30]<a>₹14,999₹18,00016% off</a>
+[31]<a></a>
+[32]<a>Acer SA 68.58 cm (27 inch) WQHD LED Backlit IPS Panel M...</a>
+[33]<a>₹12,999₹14,99913% off</a>
+[34]<a></a>
+[35]<a></a>
+[36]<a></a>
+[37]<a></a>
+[38]<div>More</div>
+[39]<div></div>
+[40]<div></div>
+[41]<div></div>
+[42]<div></div>
+[43]<img></img>
+[44]<span>?</span>
+[45]<div>BRAND</div>
+[46]<div></div>
+[47]<div>ALTGR</div>
+[48]<div></div>
+[49]<div>Admian</div>
+[50]<div></div>
+[51]<div>Ampereus</div>
+[52]<div></div>
+[53]<div>BRIOTOUCH</div>
+[54]<div></div>
+[55]<div>BnoSPACE</div>
+[56]<div></div>
+[57]<div>Enter</div>
+[58]<span>42 MORE</span>
+[59]<div>CUSTOMER RATINGS</div>
+[60]<div></div>
+[61]<div>4★ & above</div>
+[62]<div>Popularity</div>
+[63]<div>Price -- Low to High</div>
+[64]<div>Price -- High to Low</div>
+[65]<div>Newest First</div>

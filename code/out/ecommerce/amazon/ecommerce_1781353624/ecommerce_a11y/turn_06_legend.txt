@@ -1,0 +1,69 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Pune 411005 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<button>Expand to Change Language or Country</button>
+[7]<a>Hello, sign in Account & Lists</a>
+[8]<button>Expand Account and Lists</button>
+[9]<a>Returns & Orders</a>
+[10]<a>0 items in cart</a>
+[11]<a role="button">Open All Categories Menu</a>
+[12]<a>Fresh</a>
+[13]<button>Fresh Details</button>
+[14]<a>MX Player</a>
+[15]<a>Sell</a>
+[16]<a>Bestsellers</a>
+[17]<a>Today's Deals</a>
+[18]<a>Mobiles</a>
+[19]<a>Prime</a>
+[20]<button>Prime Details</button>
+[21]<a>New Releases</a>
+[22]<a>Customer Service</a>
+[23]<a>Electronics</a>
+[24]<a>Amazon Pay</a>
+[25]<a>Fashion</a>
+[26]<a>Home & Kitchen</a>
+[27]<a>Computers</a>
+[28]<a>Toys & Games</a>
+[29]<a>Car & Motorbike</a>
+[30]<a>Gift Cards</a>
+[31]<a>Beauty & Personal Care</a>
+[32]<a>Home Improvement</a>
+[33]<a>Health, Household & Personal Care</a>
+[34]<a>Books</a>
+[35]<a>Custom Products</a>
+[36]<a>Grocery & Gourmet Foods</a>
+[37]<a>Video Games</a>
+[38]<a>Sports, Fitness & Outdoors</a>
+[39]<a>Baby</a>
+[40]<a>Pet Supplies</a>
+[41]<a>AmazonBasics</a>
+[42]<a>Audible</a>
+[43]<a>Kindle eBooks</a>
+[44]<a>Subscribe & Save</a>
+[45]<a>Flights</a>
+[46]<label>Sort by:</label>
+[47]<select role="combobox">Sort by:</select>
+[48]<a>See all products, across price ranges.</a>
+[49]<a></a>
+[50]<a>YUNZII C75 75% RGB Wireless Mechanical Gaming Keyboard, BT5.0/2.4G/USB-C Creamy </a>
+[51]<a role="button">4.9 out of 5 stars, rating details</a>
+[52]<a>456 ratings</a>
+[53]<a>₹18,681.15 ₹18,681 . 15</a>
+[54]<button>Add to cart</button>
+[55]<a></a>
+[56]<a>GravaStar Mercury K1 75% Wireless Mechanical Gaming Keyboard, Aluminum Alloy Exo</a>
+[57]<a role="button">4.8 out of 5 stars, rating details</a>
+[58]<a>557 ratings</a>
+[59]<a>₹19,969 ₹19,969 M.R.P: ₹29,999 M.R.P: ₹29,999 ₹29,999</a>
+[60]<button>Add to cart</button>
+[61]<a>(4 new offers)</a>
+[62]<a></a>
+[63]<a>GravaStar Computer Peripheral Devices, Mercury,K1 75% Wireless Mechanical Gaming</a>
+[64]<a role="button">4.8 out of 5 stars, rating details</a>
+[65]<a>414 ratings</a>
+[66]<a>₹21,999 ₹21,999 M.R.P: ₹39,999 M.R.P: ₹39,999 ₹39,999</a>
+[67]<span>Sort by:</span>
+[68]<span>Avg. Customer Review</span>
+[69]<i></i>

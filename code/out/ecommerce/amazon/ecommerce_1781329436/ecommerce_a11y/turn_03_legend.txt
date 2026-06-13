@@ -1,0 +1,41 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Pune 411005 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<a>Hello, sign in Account & Lists</a>
+[7]<a>Returns & Orders</a>
+[8]<a>0 items in cart</a>
+[9]<a role="button">Open All Categories Menu</a>
+[10]<a>Fresh</a>
+[11]<a>MX Player</a>
+[12]<a>Sell</a>
+[13]<a>Bestsellers</a>
+[14]<a>Today's Deals</a>
+[15]<a>Mobiles</a>
+[16]<a>Prime</a>
+[17]<a>New Releases</a>
+[18]<a>Customer Service</a>
+[19]<a>Electronics</a>
+[20]<a>Amazon Pay</a>
+[21]<a>Fashion</a>
+[22]<a>Home & Kitchen</a>
+[23]<a>Computers</a>
+[24]<a>Toys & Games</a>
+[25]<a>Car & Motorbike</a>
+[26]<a>Gift Cards</a>
+[27]<a>Beauty & Personal Care</a>
+[28]<a>Home Improvement</a>
+[29]<a>Health, Household & Personal Care</a>
+[30]<a>Books</a>
+[31]<a>Custom Products</a>
+[32]<a>Grocery & Gourmet Foods</a>
+[33]<a>Video Games</a>
+[34]<a>Sports, Fitness & Outdoors</a>
+[35]<a>Baby</a>
+[36]<a>Pet Supplies</a>
+[37]<a>AmazonBasics</a>
+[38]<a>Audible</a>
+[39]<a>Kindle eBooks</a>
+[40]<a>Subscribe & Save</a>
+[41]<a>Flights</a>

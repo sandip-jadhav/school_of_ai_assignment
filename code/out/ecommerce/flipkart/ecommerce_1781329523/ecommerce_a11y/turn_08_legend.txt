@@ -1,0 +1,57 @@
+[1]<button>Search for Products, Brands and More</button>
+[2]<input>27 inch QHD monitor Type-C</input>
+[3]<a>dell 27inch qhd2560x1440 75hz type-c monitor</a>
+[4]<a>Login</a>
+[5]<a>More</a>
+[6]<a>Cart</a>
+[7]<a>For You</a>
+[8]<a>Fashion</a>
+[9]<a>Mobiles</a>
+[10]<a>Beauty</a>
+[11]<a>Electronics</a>
+[12]<a>Home</a>
+[13]<a>Appliances</a>
+[14]<a>Toys, baby..</a>
+[15]<a>Food & Health</a>
+[16]<a>Auto Accessories</a>
+[17]<a>2 Wheelers</a>
+[18]<a>Sports & Fitness</a>
+[19]<a>Books & Media</a>
+[20]<a>Furniture</a>
+[21]<a></a>
+[22]<a>Key Holders Popular</a>
+[23]<a>Bed Covers Min. 50% Off</a>
+[24]<a>Torches Specials</a>
+[25]<a>Emergency Bulbs Special offer</a>
+[26]<a>Contact Us</a>
+[27]<a>About Us</a>
+[28]<a>Careers</a>
+[29]<a>Flipkart Stories</a>
+[30]<a>Press</a>
+[31]<a>Corporate Information</a>
+[32]<a>Myntra</a>
+[33]<a>Cleartrip</a>
+[34]<a>Shopsy</a>
+[35]<a>Payments</a>
+[36]<a>Shipping</a>
+[37]<a>Cancellation & Returns</a>
+[38]<a>FAQ</a>
+[39]<a>Cancellation & Returns</a>
+[40]<a>Terms Of Use</a>
+[41]<a>Security</a>
+[42]<a>Privacy</a>
+[43]<a>Sitemap</a>
+[44]<a>Grievance Redressal</a>
+[45]<a>EPR Compliance</a>
+[46]<a>FSSAI Food Safety Connect App</a>
+[47]<a>Facebook</a>
+[48]<a>Twitter</a>
+[49]<a>YouTube</a>
+[50]<a>Instagram</a>
+[51]<a>044-45614700</a>
+[52]<a>044-67415800</a>
+[53]<a>Become a Seller</a>
+[54]<a>Gift Cards</a>
+[55]<a>Help Center</a>
+[56]<img></img>
+[57]<div>Refresh Page</div>

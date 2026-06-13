@@ -1,0 +1,50 @@
+[1]<button>Add to cart</button>
+[2]<a></a>
+[3]<a role="button">Sponsored</a>
+[4]<a>Kreo Swarm X Wireless Mechanical Gaming Keyboard – Huano Red Switches, Pass Thro</a>
+[5]<a role="button">4.5 out of 5 stars, rating details</a>
+[6]<a>91 ratings</a>
+[7]<a>₹4,299 ₹4,299 M.R.P: ₹10,000 M.R.P: ₹10,000 ₹10,000</a>
+[8]<button>Add to cart</button>
+[9]<a></a>
+[10]<a>EvoFox Katana S Mini Mechanical Keyboards Wireless | Tri-Mode (3X BT, 2.4GHz & W</a>
+[11]<a role="button">4.3 out of 5 stars, rating details</a>
+[12]<a>353 ratings</a>
+[13]<a>₹2,349 ₹2,349 M.R.P: ₹3,499 M.R.P: ₹3,499 ₹3,499</a>
+[14]<button>Add to cart</button>
+[15]<a></a>
+[16]<a>ZEBRONICS Transformer PRO Gaming Wireless Keyboard & Mouse Combo with 2.4GHz, Al</a>
+[17]<a role="button">4.2 out of 5 stars, rating details</a>
+[18]<a>37,036 ratings</a>
+[19]<a>₹1,520 ₹1,520 M.R.P: ₹3,999 M.R.P: ₹3,999 ₹3,999</a>
+[20]<button>Add to cart</button>
+[21]<a></a>
+[22]<a>Ant Esports MK801 V2 Pro Wireless Mecha Membrane Backlit Gaming Keyboard 94 Keys</a>
+[23]<a role="link">Apply the filter Free Shipping to narrow results</a>
+[24]<a role="link">Apply the filter EvoFox to narrow results</a>
+[25]<a role="link">Apply the filter Redragon to narrow results</a>
+[26]<a role="link">Apply the filter ZEBRONICS to narrow results</a>
+[27]<a role="link">Apply the filter Keychron to narrow results</a>
+[28]<a role="link">Apply the filter Logitech to narrow results</a>
+[29]<a role="link">Apply the filter AULA to narrow results</a>
+[30]<a role="link">Apply the filter Acer to narrow results</a>
+[31]<a role="button">See more, Brands</a>
+[32]<a role="link">Apply the filter 4 Stars & Up to narrow results</a>
+[33]<label>₹310</label>
+[34]<label>₹61,300+</label>
+[35]<input>Minimum price</input>
+[36]<input>Maximum price</input>
+[37]<a role="link">Up to ₹2,900</a>
+[38]<a role="link">₹2,900 - ₹6,600</a>
+[39]<a role="link">₹6,600 - ₹9,800</a>
+[40]<a role="link">₹9,800 - ₹14,500</a>
+[41]<a role="link">Over ₹14,500</a>
+[42]<a role="link">All Discounts</a>
+[43]<a role="link">Buy More, Save More</a>
+[44]<a role="link">Coupons</a>
+[45]<a role="link">Today's Deals</a>
+[46]<a role="link">Apply the filter Bluetooth to narrow results</a>
+[47]<a role="link">Apply the filter USB-C to narrow results</a>
+[48]<a role="link">Apply the filter USB-A to narrow results</a>
+[49]<a role="link">Apply the filter RF to narrow results</a>
+[50]<a role="link">Apply the filter Wi-Fi to narrow results</a>

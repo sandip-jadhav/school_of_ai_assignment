@@ -1,0 +1,62 @@
+[1]<a>Flipkart</a>
+[2]<a>Explore Plus</a>
+[3]<input>27 inch QHD monitor Type-C</input>
+[4]<button></button>
+[5]<a>Login</a>
+[6]<a>Become a Seller</a>
+[7]<a>Cart</a>
+[8]<a>Computers</a>
+[9]<a>Computer Components</a>
+[10]<a>Monitors & Accessories</a>
+[11]<a>Monitors</a>
+[12]<select>Min ₹250 ₹500 ₹1000 ₹2000 ₹5000 ₹10000 ₹20000 ₹30000 ₹40000 ₹50000 ₹60000</select>
+[13]<select>₹250 ₹500 ₹1000 ₹2000 ₹5000 ₹10000 ₹20000 ₹30000 ₹40000 ₹50000 ₹60000 ₹60000+</select>
+[14]<input>Search Brand</input>
+[15]<a>Home</a>
+[16]<a>Computers</a>
+[17]<a>Computer Components</a>
+[18]<a>Monitors & Accessories</a>
+[19]<a>Monitors</a>
+[20]<a></a>
+[21]<a>LG QHD 68.58 cm (27 inch) Quad HD IPS Panel with sRGB 9...</a>
+[22]<a>₹14,999₹18,00016% off</a>
+[23]<a></a>
+[24]<a>Acer SA 68.58 cm (27 inch) WQHD LED Backlit IPS Panel M...</a>
+[25]<a>₹12,999₹14,99913% off</a>
+[26]<a></a>
+[27]<a>MSI Optix 68.58 cm (27 inch) WQHD IPS Panel MSI Optix M...</a>
+[28]<a>₹52,959₹63,00015% off</a>
+[29]<a></a>
+[30]<a>BenQ PD 68.58 cm (27 inch) Quad HD LED Backlit IPS Pane...</a>
+[31]<a>₹29,750₹37,50020% off</a>
+[32]<a></a>
+[33]<a></a>
+[34]<a></a>
+[35]<a></a>
+[36]<div>More</div>
+[37]<div></div>
+[38]<div></div>
+[39]<div></div>
+[40]<div></div>
+[41]<span>?</span>
+[42]<div>BRAND</div>
+[43]<div></div>
+[44]<div>ALTGR</div>
+[45]<div></div>
+[46]<div>Admian</div>
+[47]<div></div>
+[48]<div>Ampereus</div>
+[49]<div></div>
+[50]<div>BRIOTOUCH</div>
+[51]<div></div>
+[52]<div>BnoSPACE</div>
+[53]<div></div>
+[54]<div>Enter</div>
+[55]<span>42 MORE</span>
+[56]<div>CUSTOMER RATINGS</div>
+[57]<div></div>
+[58]<div>4★ & above</div>
+[59]<div>Popularity</div>
+[60]<div>Price -- Low to High</div>
+[61]<div>Price -- High to Low</div>
+[62]<div>Newest First</div>

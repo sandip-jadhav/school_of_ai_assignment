@@ -1,0 +1,87 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Pune 411005 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<button>Expand to Change Language or Country</button>
+[7]<a>Hello, sign in Account & Lists</a>
+[8]<button>Expand Account and Lists</button>
+[9]<a>Returns & Orders</a>
+[10]<a>0 items in cart</a>
+[11]<a role="button">Open All Categories Menu</a>
+[12]<a>Fresh</a>
+[13]<button>Fresh Details</button>
+[14]<a>MX Player</a>
+[15]<a>Sell</a>
+[16]<a>Bestsellers</a>
+[17]<a>Today's Deals</a>
+[18]<a>Mobiles</a>
+[19]<a>Prime</a>
+[20]<button>Prime Details</button>
+[21]<a>New Releases</a>
+[22]<a>Customer Service</a>
+[23]<a>Electronics</a>
+[24]<a>Amazon Pay</a>
+[25]<a>Fashion</a>
+[26]<a>Home & Kitchen</a>
+[27]<a>Computers</a>
+[28]<a>Toys & Games</a>
+[29]<a>Car & Motorbike</a>
+[30]<a>Gift Cards</a>
+[31]<a>Beauty & Personal Care</a>
+[32]<a>Home Improvement</a>
+[33]<a>Health, Household & Personal Care</a>
+[34]<a>Books</a>
+[35]<a>Custom Products</a>
+[36]<a>Grocery & Gourmet Foods</a>
+[37]<a>Video Games</a>
+[38]<a>Sports, Fitness & Outdoors</a>
+[39]<a>Baby</a>
+[40]<a>Pet Supplies</a>
+[41]<a>AmazonBasics</a>
+[42]<a>Audible</a>
+[43]<a>Kindle eBooks</a>
+[44]<a>Subscribe & Save</a>
+[45]<a>Flights</a>
+[46]<label>Sort by:</label>
+[47]<select role="combobox">Sort by:</select>
+[48]<a></a>
+[49]<a role="button">Sponsored</a>
+[50]<a>KARNAGE by EVM Visage 95 RGB Backlit Wireless Gaming Keyboard [95 Keys] Triple M</a>
+[51]<a role="button">4.0 out of 5 stars, rating details</a>
+[52]<a>21 ratings</a>
+[53]<a>₹2,099 ₹2,099 M.R.P: ₹4,999 M.R.P: ₹4,999 ₹4,999</a>
+[54]<button>Add to cart</button>
+[55]<a></a>
+[56]<a role="button">Sponsored</a>
+[57]<a>Kreo Swarm X Wireless Mechanical Gaming Keyboard – Huano Red Switches, Pass Thro</a>
+[58]<a role="button">4.5 out of 5 stars, rating details</a>
+[59]<a>91 ratings</a>
+[60]<a>₹4,299 ₹4,299 M.R.P: ₹10,000 M.R.P: ₹10,000 ₹10,000</a>
+[61]<button>Add to cart</button>
+[62]<a></a>
+[63]<a>EvoFox Katana S Mini Mechanical Keyboards Wireless | Tri-Mode (3X BT, 2.4GHz & W</a>
+[64]<a role="button">4.3 out of 5 stars, rating details</a>
+[65]<a>353 ratings</a>
+[66]<a role="link">Combo</a>
+[67]<a role="link">75%</a>
+[68]<a role="link">Silent</a>
+[69]<a role="link">Tkl</a>
+[70]<a role="button">See more</a>
+[71]<a role="link">Apply the filter Get It by Tomorrow to narrow results</a>
+[72]<a role="link">Apply the filter Get It in 2 Days to narrow results</a>
+[73]<a role="link">Apply the filter Free Shipping to narrow results</a>
+[74]<a role="link">Apply the filter EvoFox to narrow results</a>
+[75]<a role="link">Apply the filter Redragon to narrow results</a>
+[76]<a role="link">Apply the filter ZEBRONICS to narrow results</a>
+[77]<a role="link">Apply the filter Keychron to narrow results</a>
+[78]<a role="link">Apply the filter Logitech to narrow results</a>
+[79]<a role="link">Apply the filter AULA to narrow results</a>
+[80]<a role="link">Apply the filter Acer to narrow results</a>
+[81]<a role="button">See more, Brands</a>
+[82]<a role="link">Apply the filter 4 Stars & Up to narrow results</a>
+[83]<label>₹310</label>
+[84]<label>₹61,300+</label>
+[85]<span>Sort by:</span>
+[86]<span>Featured</span>
+[87]<i></i>

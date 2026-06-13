@@ -1,0 +1,56 @@
+[1]<button>Search for Products, Brands and More</button>
+[2]<input>Search for Products, Brands and More</input>
+[3]<a>Login</a>
+[4]<a>More</a>
+[5]<a>Cart</a>
+[6]<a>For You</a>
+[7]<a>Fashion</a>
+[8]<a>Mobiles</a>
+[9]<a>Beauty</a>
+[10]<a>Electronics</a>
+[11]<a>Home</a>
+[12]<a>Appliances</a>
+[13]<a>Toys, baby..</a>
+[14]<a>Food & Health</a>
+[15]<a>Auto Accessories</a>
+[16]<a>2 Wheelers</a>
+[17]<a>Sports & Fitness</a>
+[18]<a>Books & Media</a>
+[19]<a>Furniture</a>
+[20]<a></a>
+[21]<a>Key Holders Popular</a>
+[22]<a>Bed Covers Min. 50% Off</a>
+[23]<a>Torches Specials</a>
+[24]<a>Emergency Bulbs Special offer</a>
+[25]<a>Contact Us</a>
+[26]<a>About Us</a>
+[27]<a>Careers</a>
+[28]<a>Flipkart Stories</a>
+[29]<a>Press</a>
+[30]<a>Corporate Information</a>
+[31]<a>Myntra</a>
+[32]<a>Cleartrip</a>
+[33]<a>Shopsy</a>
+[34]<a>Payments</a>
+[35]<a>Shipping</a>
+[36]<a>Cancellation & Returns</a>
+[37]<a>FAQ</a>
+[38]<a>Cancellation & Returns</a>
+[39]<a>Terms Of Use</a>
+[40]<a>Security</a>
+[41]<a>Privacy</a>
+[42]<a>Sitemap</a>
+[43]<a>Grievance Redressal</a>
+[44]<a>EPR Compliance</a>
+[45]<a>FSSAI Food Safety Connect App</a>
+[46]<a>Facebook</a>
+[47]<a>Twitter</a>
+[48]<a>YouTube</a>
+[49]<a>Instagram</a>
+[50]<a>044-45614700</a>
+[51]<a>044-67415800</a>
+[52]<a>Become a Seller</a>
+[53]<a>Gift Cards</a>
+[54]<a>Help Center</a>
+[55]<img></img>
+[56]<div>Refresh Page</div>

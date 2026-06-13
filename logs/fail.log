@@ -1,0 +1,12 @@
+
+══════════════════════════════════════════════════════════════════════════════
+session s8-48908350  ─  query: Summarise the contents of /nonexistent/path.txt for me.
+══════════════════════════════════════════════════════════════════════════════
+[memory.read] 3 hit(s) visible to every skill this run
+[n:1] planner            complete (4.3s)
+[n:2] formatter          complete (3.6s)
+
+══════════════════════════════════════════════════════════════════════════════
+FINAL: I am unable to summarize the contents of /nonexistent/path.txt because the file does not exist.
+══════════════════════════════════════════════════════════════════════════════
+

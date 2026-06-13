@@ -1,0 +1,98 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Pune 411005 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<button>Expand to Change Language or Country</button>
+[7]<a>Hello, sign in Account & Lists</a>
+[8]<button>Expand Account and Lists</button>
+[9]<a>Returns & Orders</a>
+[10]<a>0 items in cart</a>
+[11]<a role="button">Open All Categories Menu</a>
+[12]<a>Fresh</a>
+[13]<button>Fresh Details</button>
+[14]<a>MX Player</a>
+[15]<a>Sell</a>
+[16]<a>Bestsellers</a>
+[17]<a>Today's Deals</a>
+[18]<a>Mobiles</a>
+[19]<a>Prime</a>
+[20]<button>Prime Details</button>
+[21]<a>New Releases</a>
+[22]<a>Customer Service</a>
+[23]<a>Electronics</a>
+[24]<a>Amazon Pay</a>
+[25]<a>Fashion</a>
+[26]<a>Home & Kitchen</a>
+[27]<a>Computers</a>
+[28]<a>Toys & Games</a>
+[29]<a>Car & Motorbike</a>
+[30]<a>Gift Cards</a>
+[31]<a>Beauty & Personal Care</a>
+[32]<a>Home Improvement</a>
+[33]<a>Health, Household & Personal Care</a>
+[34]<a>Books</a>
+[35]<a>Custom Products</a>
+[36]<a>Grocery & Gourmet Foods</a>
+[37]<a>Video Games</a>
+[38]<a>Sports, Fitness & Outdoors</a>
+[39]<a>Baby</a>
+[40]<a>Pet Supplies</a>
+[41]<a>AmazonBasics</a>
+[42]<a>Audible</a>
+[43]<a>Kindle eBooks</a>
+[44]<a>Subscribe & Save</a>
+[45]<a>Flights</a>
+[46]<label>Sort by:</label>
+[47]<select role="combobox">Sort by:</select>
+[48]<a>Sponsored ad from daWg Mechanical Keyboard. "Every Keystroke Leads To Victory." </a>
+[49]<a>daWg Mechanical Keyboard</a>
+[50]<a>Every Keystroke Leads To Victory</a>
+[51]<span role="button">Leave feedback on Sponsored ad</span>
+[52]<a>Shop daWg Mechanical Keyboard</a>
+[53]<a></a>
+[54]<a></a>
+[55]<a></a>
+[56]<a>daWg Highkey 373, Anti-Ghosting Wired Mechanical 80% Keyboard, White Backlit LED</a>
+[57]<a>Rated 4.1 out of 5 stars by 38 reviews. Go to review section.</a>
+[58]<a>₹2,499.00 ₹2,499 . 00</a>
+[59]<a></a>
+[60]<a></a>
+[61]<a></a>
+[62]<a>daWg Highkey 718, 75% Wireless Mechanical Keyboard, RGB, Fiery Red Switches, Hot</a>
+[63]<a>Rated 3.7 out of 5 stars by 15 reviews. Go to review section.</a>
+[64]<a>₹4,449.00 ₹4,449 . 00</a>
+[65]<a></a>
+[66]<a></a>
+[67]<a></a>
+[68]<a role="button">Next page</a>
+[69]<a>See all products, across price ranges.</a>
+[70]<a></a>
+[71]<a role="button">Sponsored</a>
+[72]<a>Kreo Swarm X Wireless Mechanical Gaming Keyboard – Huano Red Switches, Pass Thro</a>
+[73]<a role="button">4.5 out of 5 stars, rating details</a>
+[74]<a>91 ratings</a>
+[75]<a>₹4,299 ₹4,299 M.R.P: ₹10,000 M.R.P: ₹10,000 ₹10,000</a>
+[76]<button>Add to cart</button>
+[77]<a role="link">Combo</a>
+[78]<a role="link">75%</a>
+[79]<a role="link">Silent</a>
+[80]<a role="link">Tkl</a>
+[81]<a role="button">See more</a>
+[82]<a role="link">Apply the filter Get It Today to narrow results</a>
+[83]<a role="link">Apply the filter Get It by Tomorrow to narrow results</a>
+[84]<a role="link">Apply the filter Get It in 2 Days to narrow results</a>
+[85]<a role="link">Apply the filter Free Shipping to narrow results</a>
+[86]<a role="link">Apply the filter Redragon to narrow results</a>
+[87]<a role="link">Apply the filter ZEBRONICS to narrow results</a>
+[88]<a role="link">Apply the filter HP to narrow results</a>
+[89]<a role="link">Apply the filter Keychron to narrow results</a>
+[90]<a role="link">Apply the filter Logitech to narrow results</a>
+[91]<a role="link">Apply the filter AULA to narrow results</a>
+[92]<a role="link">Apply the filter Ant Esports to narrow results</a>
+[93]<a role="link">Apply the filter 4 Stars & Up to narrow results</a>
+[94]<label>₹295</label>
+[95]<label>₹59,800+</label>
+[96]<span>Sort by:</span>
+[97]<span>Featured</span>
+[98]<i></i>

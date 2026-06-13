@@ -1,0 +1,90 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Pune 411005 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<button>Expand to Change Language or Country</button>
+[7]<a>Hello, sign in Account & Lists</a>
+[8]<button>Expand Account and Lists</button>
+[9]<a>Returns & Orders</a>
+[10]<a>0 items in cart</a>
+[11]<div role="button">mechanical wireless keyboard</div>
+[12]<div role="button">mechanical wireless keyboard and mouse</div>
+[13]<div role="button">mechanical wireless keyboard and mouse combo</div>
+[14]<div role="button">mechanical wireless keyboard for laptop</div>
+[15]<div role="button">mechanical wireless keyboard for mac</div>
+[16]<div role="button">mechanical wireless keyboard for pc</div>
+[17]<div role="button">mechanical wireless keyboard white</div>
+[18]<div role="button">mechanical wireless keyboard under 1000</div>
+[19]<div role="button">mechanical wireless keyboard 75%</div>
+[20]<div role="button">mechanical wireless keyboard under 2k</div>
+[21]<a role="button">Open All Categories Menu</a>
+[22]<a>Fresh</a>
+[23]<button>Fresh Details</button>
+[24]<a>MX Player</a>
+[25]<a>Sell</a>
+[26]<a>Bestsellers</a>
+[27]<a>Today's Deals</a>
+[28]<a>Mobiles</a>
+[29]<a>Prime</a>
+[30]<button>Prime Details</button>
+[31]<a>New Releases</a>
+[32]<a>Customer Service</a>
+[33]<a>Electronics</a>
+[34]<a>Amazon Pay</a>
+[35]<a>Fashion</a>
+[36]<a>Home & Kitchen</a>
+[37]<a>Computers</a>
+[38]<a>Toys & Games</a>
+[39]<a>Car & Motorbike</a>
+[40]<a>Gift Cards</a>
+[41]<a>Beauty & Personal Care</a>
+[42]<a>Home Improvement</a>
+[43]<a>Health, Household & Personal Care</a>
+[44]<a>Books</a>
+[45]<a>Custom Products</a>
+[46]<a>Grocery & Gourmet Foods</a>
+[47]<a>Video Games</a>
+[48]<a>Sports, Fitness & Outdoors</a>
+[49]<a>Baby</a>
+[50]<a>Pet Supplies</a>
+[51]<a>AmazonBasics</a>
+[52]<a>Audible</a>
+[53]<a>Kindle eBooks</a>
+[54]<a>Subscribe & Save</a>
+[55]<a>Flights</a>
+[56]<a role="button">Previous slide</a>
+[57]<a></a>
+[58]<a role="button">Next slide</a>
+[59]<a>ACs</a>
+[60]<a>Refrigerators</a>
+[61]<a>Microwaves</a>
+[62]<a>Washing machines</a>
+[63]<a>Appliances for your home | Up to 55% off - See more</a>
+[64]<a>Cushion covers, bedsheets & more</a>
+[65]<a>Figurines, vases & more</a>
+[66]<a>Home storage</a>
+[67]<a>Lighting solutions</a>
+[68]<a>Revamp your home in style - Explore all</a>
+[69]<a>Cleaning</a>
+[70]<a>Bath accessories</a>
+[71]<a>Home tools</a>
+[72]<a>Wallpapers</a>
+[73]<a>Starting ₹49 | Deals on home essentials - Explore all</a>
+[74]<a></a>
+[75]<a></a>
+[76]<a></a>
+[77]<a></a>
+[78]<a>See all offers</a>
+[79]<a>Carousel previous slide</a>
+[80]<a>Carousel next slide</a>
+[81]<i></i>
+[82]<i></i>
+[83]<i></i>
+[84]<i></i>
+[85]<i></i>
+[86]<i></i>
+[87]<i></i>
+[88]<i></i>
+[89]<i></i>
+[90]<i></i>

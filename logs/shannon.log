@@ -1,0 +1,52 @@
+[06/12/26 17:12:33] INFO     Processing request of type            server.py:727
+                             CallToolRequest                                    
+[06/12/26 17:12:34] INFO     response:                                lib.rs:444
+                             https://en.wikipedia.org/w/api.php?actio           
+                             n=opensearch&profile=fuzzy&limit=1&searc           
+                             h=Claude%20Shannon%20birth%20death%20inf           
+                             ormation%20theory%20contributions 200              
+[06/12/26 17:12:35] INFO     response:                                lib.rs:444
+                             https://grokipedia.com/api/typeahead?que           
+                             ry=Claude+Shannon+birth+death+informatio           
+                             n+theory+contributions&limit=1 200                 
+[06/12/26 17:12:40] INFO     Error in engine mojeek:                 ddgs.py:436
+                             TimeoutException(TimeoutError('error               
+                             sending request for url                            
+                             (https://www.mojeek.com/search?q=Claude            
+                             +Shannon+birth+death+information+theory            
+                             +contributions) > operation timed                  
+                             out'))                                             
+                    INFO     response:                                lib.rs:444
+                             https://search.yahoo.com/search;_ylt=PUN           
+                             5KjgRt_1IAWYDnD-wQYL1;_ylu=DylU_NGXT7slv           
+                             ebCUBAUGBdjffVhYRluQzz535O56fSIKM0?p=Cla           
+                             ude+Shannon+birth+death+information+theo           
+                             ry+contributions 200                               
+[06/12/26 17:12:41] INFO     HTTP Request: POST                  _client.py:1025
+                             https://html.duckduckgo.com/html/                  
+                             "HTTP/2 202 Accepted"                              
+[06/12/26 17:12:42] INFO     response: https://www.startpage.com/ 200 lib.rs:444
+[06/12/26 17:12:43] INFO     response:                                lib.rs:444
+                             https://www.startpage.com/sp/search 200            
+                    INFO     Processing request of type            server.py:727
+                             ListToolsRequest                                   
+[06/12/26 17:12:44] INFO     Processing request of type            server.py:727
+                             CallToolRequest                                    
+
+══════════════════════════════════════════════════════════════════════════════
+session s8-941ab49d  ─  query: When was Claude Shannon born and when did he die? Name three of his contributions to information theory.
+══════════════════════════════════════════════════════════════════════════════
+[n:1] planner            complete (4.5s)
+[n:2] researcher         complete (23.6s)
+[n:3] formatter          complete (3.5s)
+
+══════════════════════════════════════════════════════════════════════════════
+FINAL: Claude Shannon was born on April 30, 1916, and passed away on February 24, 2001. Three of his key contributions to information theory include:
+
+1. The introduction of the 'bit' (binary digit) as the fundamental unit of information.
+2. The development of the mathematical theory of communication, which established the Shannon limit for data compression and transmission rates.
+3. The application of Boolean algebra to the design of digital circuits, which provided the foundation for modern computer architecture.
+
+Sources: Wikipedia, Britannica.
+══════════════════════════════════════════════════════════════════════════════
+

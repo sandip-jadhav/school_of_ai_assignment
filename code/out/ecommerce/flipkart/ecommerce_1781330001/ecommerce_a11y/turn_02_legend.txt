@@ -1,0 +1,25 @@
+[1]<button>Search for Products, Brands and More</button>
+[2]<input>Search for Products, Brands and More</input>
+[3]<a>Login</a>
+[4]<a>More</a>
+[5]<a>Cart</a>
+[6]<a>For You</a>
+[7]<a>Fashion</a>
+[8]<a>Mobiles</a>
+[9]<a>Beauty</a>
+[10]<a>Electronics</a>
+[11]<a>Home</a>
+[12]<a>Appliances</a>
+[13]<a>Toys, baby..</a>
+[14]<a>Food & Health</a>
+[15]<a>Auto Accessories</a>
+[16]<a>2 Wheelers</a>
+[17]<a>Sports & Fitness</a>
+[18]<a>Books & Media</a>
+[19]<a>Furniture</a>
+[20]<a></a>
+[21]<a></a>
+[22]<a></a>
+[23]<a></a>
+[24]<a></a>
+[25]<a></a>

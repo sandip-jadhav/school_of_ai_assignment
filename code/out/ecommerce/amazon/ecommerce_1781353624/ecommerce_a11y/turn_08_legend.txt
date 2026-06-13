@@ -1,0 +1,71 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Pune 411005 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<button>Expand to Change Language or Country</button>
+[7]<a>Hello, sign in Account & Lists</a>
+[8]<button>Expand Account and Lists</button>
+[9]<a>Returns & Orders</a>
+[10]<a>0 items in cart</a>
+[11]<a role="button">Open All Categories Menu</a>
+[12]<a>Fresh</a>
+[13]<button>Fresh Details</button>
+[14]<a>MX Player</a>
+[15]<a>Sell</a>
+[16]<a>Bestsellers</a>
+[17]<a>Today's Deals</a>
+[18]<a>Mobiles</a>
+[19]<a>Prime</a>
+[20]<button>Prime Details</button>
+[21]<a>New Releases</a>
+[22]<a>Customer Service</a>
+[23]<a>Electronics</a>
+[24]<a>Amazon Pay</a>
+[25]<a>Fashion</a>
+[26]<a>Home & Kitchen</a>
+[27]<a>Computers</a>
+[28]<a>Toys & Games</a>
+[29]<a>Car & Motorbike</a>
+[30]<a>Gift Cards</a>
+[31]<a>Beauty & Personal Care</a>
+[32]<a>Home Improvement</a>
+[33]<a>Health, Household & Personal Care</a>
+[34]<a>Books</a>
+[35]<a>Custom Products</a>
+[36]<a>Grocery & Gourmet Foods</a>
+[37]<a>Video Games</a>
+[38]<a>Sports, Fitness & Outdoors</a>
+[39]<a>Baby</a>
+[40]<a>Pet Supplies</a>
+[41]<a>AmazonBasics</a>
+[42]<a>Audible</a>
+[43]<a>Kindle eBooks</a>
+[44]<a>Subscribe & Save</a>
+[45]<a>Flights</a>
+[46]<label>Sort by:</label>
+[47]<select role="combobox">Sort by:</select>
+[48]<a>See all products, across price ranges.</a>
+[49]<a>Sign in</a>
+[50]<a>Start here.</a>
+[51]<button>Back to top</button>
+[52]<a>About Amazon</a>
+[53]<a>Careers</a>
+[54]<a>Press Releases</a>
+[55]<a>Amazon Science</a>
+[56]<a>Facebook</a>
+[57]<a>Twitter</a>
+[58]<a>Instagram</a>
+[59]<a>Sell on Amazon</a>
+[60]<a>Sell under Amazon Accelerator</a>
+[61]<a>Protect and Build Your Brand</a>
+[62]<a>Amazon Global Selling</a>
+[63]<a>Supply to Amazon</a>
+[64]<a>Your Account</a>
+[65]<a>Returns Centre</a>
+[66]<a>Recalls and Product Safety Alerts</a>
+[67]<a>100% Purchase Protection</a>
+[68]<a>Amazon App Download</a>
+[69]<span>Sort by:</span>
+[70]<span>Avg. Customer Review</span>
+[71]<i></i>
